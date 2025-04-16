@@ -7,6 +7,6 @@ The Power BI dashboard is made for a pizza shop sales all throughout the year 20
 This dashboard helps in detailed analysis of sales and helps in gaining insights to make better business decisions to the client.
 
 ## Skills Demonstrated in Power BI Projects
-* Ability to interpret and visualize datat through various plots and figures.
+* Ability to interpret and visualize data through various plots and figures.
 * Creation of DAX for analysis.
 * Using PowerBI capabilities thoroughly to create engaging and interactive dashboard. 
